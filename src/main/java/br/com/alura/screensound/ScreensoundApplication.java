@@ -8,7 +8,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScreensoundApplication implements CommandLineRunner {
+public class 	ScreensoundApplication implements CommandLineRunner {
 	@Autowired
 	private ArtistaRepository artistaRepository;
 
